@@ -120,4 +120,4 @@ pricing.
 ------------------------------------------------------------------------
 7📸 Dashboard Preview
 
-![Indian Airline Dashboard]()
+![Indian Airline Dashboard](https://github.com/satyaGanesh27/Indian_Airlines_Dashboard/blob/main/Indian%20Airline%20Dashboard.pdf)
